@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "typescript": "5.7.2"
+  },
+  "name": "hillel-typescript-hometasks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "tsc": "2.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergey Emelyanov",
+  "license": "ISC",
+  "description": ""
+}
